@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂瑜伽念珠經
+#+DATE: 2015-08-30 20:20:55.379350
+#+PROPERTY: JUAN 0
